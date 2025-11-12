@@ -1,8 +1,6 @@
-<h2 align="left">Woodex - Furniture eCommerce Website</h2>
+<h2 align="center">Woodex - Furniture eCommerce Website</h2>
 
-  Woodex is a fully responsive furniture ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-
-<br />
+<div align="center">Woodex is a fully responsive furniture ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.</div>
 
 ### Demo Screeshots
 
